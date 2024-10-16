@@ -1,0 +1,12 @@
+<%- include('partials/head') %>
+<%- include('partials/navbar') %>
+
+<body>
+    <h1> Chilrens books authors include :</h1>
+    <ul>
+        <% for(let author of authors){ %>
+            <li><%= author %></li>
+            <% } %>
+    </ul>
+</body>
+</html>

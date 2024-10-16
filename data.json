@@ -1,0 +1,64 @@
+{
+    "soccer": {
+       "name": "soccer",
+       "subscribers": "40000",
+       "description": "football subreddit",
+       "posts":[
+           {
+               "title": "le poisson",
+               "author": "ronaldo"
+           },
+           {
+               "title": "le poisson",
+               "author": "okocha"
+           },
+           {
+               "title": "vous le vous",
+               "author": "neymar"
+           }
+       ]
+    },
+    "chickens": {
+       "name": "chicken",
+       "subscribers": "4004333",
+       "description": "chicken subreddit",
+       "posts":[
+           {
+               "title": "le poulette ",
+               "author": "kaka"
+           },
+           {
+               "title": "le poisson",
+               "author": "uyo"
+           },
+           {
+               "title": "vous le ",
+               "author": "mum"
+           }
+       ]
+    },
+    "cats": {
+       "name": "cat",
+       "subscribers": "4004333",
+       "description": "cat subreddit",
+       "posts":[
+           {
+               "title": "le chat ",
+               "author": "kaka",
+               "img": "https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_640.png"
+           },
+           {
+               "title": "le ppussycat",
+               "author": "uyo",
+               "img": "https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_640.png"
+
+           },
+           {
+               "title": "vous le chat ",
+               "author": "mum",
+               "img": "https://cdn.pixabay.com/photo/2021/12/26/17/31/pokemon-6895600_640.png"
+
+           }
+       ]
+    }
+}

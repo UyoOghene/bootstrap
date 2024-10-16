@@ -1,0 +1,14 @@
+<%- include('partials/head') %>
+<%- include('partials/navbar') %>
+
+<body>
+    <h1> random number <%= num %> </h1>
+    <% if(num % 2 === 0) {%>
+        <h2>That is even</h2>
+        <%} else {  %>
+        <h2>That is odd</h2>
+            <% } %>
+
+       <h1>NEw random number <%= newrannum  %> is <%= evenorodd %></h1>     
+</body>
+</html>
